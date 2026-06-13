@@ -1,0 +1,109 @@
+<svg width="1100" height="520" viewBox="0 0 1100 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="rust" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ff6b35"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 800 30px 'Segoe UI', Arial, sans-serif; fill: #f8fafc; }
+      .subtitle { font: 500 14px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; }
+      .label { font: 700 17px 'Segoe UI', Arial, sans-serif; fill: #e5e7eb; }
+      .small { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; letter-spacing: .4px; }
+      .chip { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #dbeafe; }
+      .pct { font: 800 14px 'Segoe UI', Arial, sans-serif; fill: #67e8f9; }
+      .dash { stroke-dasharray: 8 10; animation: dash 8s linear infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .float { animation: float 4.5s ease-in-out infinite; }
+      .bar { transform-origin: left center; animation: grow 1.8s ease-out forwards; }
+      @keyframes dash { to { stroke-dashoffset: -120; } }
+      @keyframes pulse { 0%,100% { opacity:.65; } 50% { opacity:1; } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+      @keyframes grow { from { transform: scaleX(.15); opacity:.5;} to { transform: scaleX(1); opacity:1;} }
+    </style>
+  </defs>
+
+  <rect width="1100" height="520" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1064" height="484" rx="24" stroke="#334155" stroke-width="1.4"/>
+  <path d="M70 92 C250 40, 400 130, 560 80 S875 66, 1030 112" stroke="url(#cyan)" stroke-opacity=".45" stroke-width="2" class="dash"/>
+  <path d="M80 430 C240 350, 365 474, 540 410 S855 370, 1030 450" stroke="#22d3ee" stroke-opacity=".28" stroke-width="2" class="dash"/>
+
+  <text x="55" y="65" class="title">Engineering Stack Intelligence</text>
+  <text x="55" y="92" class="subtitle">Skills map across systems, AI, security, blockchain, and production infrastructure</text>
+
+  <g transform="translate(55,128)">
+    <rect width="480" height="328" rx="22" fill="#0b1220" stroke="#1e3a8a"/>
+    <text x="26" y="42" class="label">Primary Languages</text>
+    <text x="26" y="64" class="small">Based on working stack, not only public repo counters</text>
+
+    <g transform="translate(26,92)">
+      <text x="0" y="0" class="label">Rust</text><text x="405" y="0" class="pct">Core</text>
+      <rect x="0" y="16" width="420" height="12" rx="6" fill="#1e293b"/><rect class="bar" x="0" y="16" width="390" height="12" rx="6" fill="url(#rust)"/>
+    </g>
+    <g transform="translate(26,144)">
+      <text x="0" y="0" class="label">Python</text><text x="383" y="0" class="pct">Strong</text>
+      <rect x="0" y="16" width="420" height="12" rx="6" fill="#1e293b"/><rect class="bar" x="0" y="16" width="355" height="12" rx="6" fill="url(#cyan)"/>
+    </g>
+    <g transform="translate(26,196)">
+      <text x="0" y="0" class="label">Solidity</text><text x="383" y="0" class="pct">Strong</text>
+      <rect x="0" y="16" width="420" height="12" rx="6" fill="#1e293b"/><rect class="bar" x="0" y="16" width="340" height="12" rx="6" fill="#8b5cf6"/>
+    </g>
+    <g transform="translate(26,248)">
+      <text x="0" y="0" class="label">C++</text><text x="368" y="0" class="pct">Working</text>
+      <rect x="0" y="16" width="420" height="12" rx="6" fill="#1e293b"/><rect class="bar" x="0" y="16" width="300" height="12" rx="6" fill="#60a5fa"/>
+    </g>
+    <g transform="translate(26,300)">
+      <text x="0" y="0" class="label">Dart / Flutter</text><text x="368" y="0" class="pct">Working</text>
+      <rect x="0" y="16" width="420" height="12" rx="6" fill="#1e293b"/><rect class="bar" x="0" y="16" width="295" height="12" rx="6" fill="#38bdf8"/>
+    </g>
+  </g>
+
+  <g transform="translate(580,128)">
+    <rect width="465" height="328" rx="22" fill="#0b1220" stroke="#334155"/>
+    <text x="26" y="42" class="label">Engineering Domains</text>
+    <text x="26" y="64" class="small">Where the stack is applied</text>
+
+    <g class="float" transform="translate(26,92)">
+      <rect width="190" height="56" rx="14" fill="#111827" stroke="#22d3ee" stroke-opacity=".45"/>
+      <text x="18" y="34" class="chip">Rust Systems</text>
+    </g>
+    <g class="float" style="animation-delay:.4s" transform="translate(246,92)">
+      <rect width="190" height="56" rx="14" fill="#111827" stroke="#8b5cf6" stroke-opacity=".5"/>
+      <text x="18" y="34" class="chip">AI Engineering</text>
+    </g>
+    <g class="float" style="animation-delay:.8s" transform="translate(26,170)">
+      <rect width="190" height="56" rx="14" fill="#111827" stroke="#ef4444" stroke-opacity=".5"/>
+      <text x="18" y="34" class="chip">Cybersecurity</text>
+    </g>
+    <g class="float" style="animation-delay:1.2s" transform="translate(246,170)">
+      <rect width="190" height="56" rx="14" fill="#111827" stroke="#f59e0b" stroke-opacity=".55"/>
+      <text x="18" y="34" class="chip">Blockchain</text>
+    </g>
+    <g class="float" style="animation-delay:1.6s" transform="translate(26,248)">
+      <rect width="190" height="56" rx="14" fill="#111827" stroke="#10b981" stroke-opacity=".5"/>
+      <text x="18" y="34" class="chip">DevOps / Cloud</text>
+    </g>
+    <g class="float" style="animation-delay:2s" transform="translate(246,248)">
+      <rect width="190" height="56" rx="14" fill="#111827" stroke="#60a5fa" stroke-opacity=".5"/>
+      <text x="18" y="34" class="chip">Backend APIs</text>
+    </g>
+  </g>
+
+  <g filter="url(#glow)" class="pulse">
+    <circle cx="550" cy="286" r="22" fill="#22d3ee" fill-opacity=".18" stroke="#22d3ee"/>
+    <circle cx="550" cy="286" r="5" fill="#67e8f9"/>
+  </g>
+  <path d="M535 286 H580" stroke="#22d3ee" stroke-opacity=".55" stroke-width="2"/>
+</svg>

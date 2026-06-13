@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=1100&lines=Security+Software+Engineer;Rust+Systems+Engineer;AI+Security+Automation+Builder;Blockchain+%26+Smart+Contract+Engineer;Zero-Trust+%7C+eBPF%2FXDP+%7C+LLM+Evaluation+%7C+Web3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=1100&lines=Security+Software+Engineer;AI+Systems+Engineer;Rust+Systems+Engineer;Blockchain+%26+Smart+Contract+Engineer;Cybersecurity+%7C+Rust+%7C+AI+%7C+Web3" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 > I build **secure, intelligent, distributed systems** across cybersecurity, Rust infrastructure, AI automation, and blockchain protocols.
 
-I am focused on production-grade engineering: systems that are secure by design, observable, automated, scalable, and useful in real environments.
+I focus on production-grade engineering: systems that are secure by design, observable, automated, scalable, and useful in real environments.
 
 <img src="./assets/cyber-matrix.svg" alt="Cyber matrix animated banner" width="100%" />
 
@@ -31,8 +31,8 @@ I am focused on production-grade engineering: systems that are secure by design,
 - Threat detection and risk scoring
 - MITRE ATT&CK mapping
 - Vulnerability assessment and bug bounty research
-- Suricata IDS/IPS and endpoint/network controls
-- Tamper-evident audit trails
+- IDS/IPS, endpoint, and network security controls
+- Audit trails and security reporting
 
 </td>
 <td width="50%">
@@ -40,10 +40,10 @@ I am focused on production-grade engineering: systems that are secure by design,
 ### 🦀 Rust / Backend Systems
 - Async Rust backend services
 - REST and gRPC APIs
-- P2P mesh networking
-- Gossip-based propagation
-- Distributed identity resolution
-- Performance and reliability engineering
+- Distributed system components
+- Backend reliability and performance
+- Infrastructure-oriented services
+- Production-focused engineering
 
 </td>
 </tr>
@@ -94,6 +94,8 @@ I am focused on production-grade engineering: systems that are secure by design,
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Infrastructure / DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -112,7 +114,7 @@ I am focused on production-grade engineering: systems that are secure by design,
 ![CodeQL](https://img.shields.io/badge/CodeQL-2C2C54?style=for-the-badge&logo=github&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_Evaluation-111827?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -120,63 +122,21 @@ I am focused on production-grade engineering: systems that are secure by design,
 
 ## 🚀 Proof-of-Work Matrix
 
-| Project Direction | Stack | Proof Signal |
+| Direction | Stack | Proof Signal |
 |---|---|---|
-| **Zero-Trust Edge Security Platform** | Rust, gRPC, DID/VC, eBPF/XDP | Security architecture, device identity, enforcement |
-| **AI Threat Detection Dashboard** | Python, AI, MITRE, CVE/EPSS | AI + cyber analytics + explainable risk |
-| **Rust Distributed Backend Infrastructure** | Rust, REST/gRPC, P2P, gossip | Backend reliability and distributed systems |
-| **Blockchain & Smart Contract Systems** | Solidity, EVM, Rust backend | Web3 engineering and contract security |
-| **LLM Evaluation / Red Teaming** | Prompt engineering, eval workflows | AI safety, testing, structured feedback |
-| **Flutter Security Suite** | Flutter, APIs, security tools | Client-facing security product delivery |
+| **Security Software Engineering** | Rust, Python, security tooling | Secure systems, risk visibility, engineering ownership |
+| **AI Systems Engineering** | Python, LLM evaluation, AI workflows | Model testing, prompt engineering, AI product feedback |
+| **Rust Backend Infrastructure** | Rust, REST/gRPC, distributed systems | Reliability, performance, backend architecture |
+| **Blockchain Engineering** | Solidity, EVM, Rust backend | Smart contracts, Web3 systems, security-first design |
+| **DevOps / Platform Delivery** | Docker, Kubernetes, CI/CD, cloud | Production delivery, automation, monitoring |
+| **Client-Facing Product Work** | Flutter, dashboards, APIs | Usable security and AI tooling |
 
 ---
 
-## 🔄 Security Delivery Pipeline
+## 📊 Engineering Stack Intelligence
 
 <div align="center">
-  <img src="./assets/security-pipeline.svg" alt="Animated security delivery pipeline" width="96%" />
-</div>
-
----
-
-## 📌 Featured Repositories To Pin
-
-> These are the 6 repos that should be polished and pinned. Empty/random repos should be private.
-
-| Pin | Repository Idea | README Must Include |
-|---|---|---|
-| 1 | `zero-trust-edge-security-platform` | architecture diagram, threat model, demo screenshots |
-| 2 | `ai-threat-detection-dashboard` | dashboard screenshots, AI pipeline, metrics |
-| 3 | `rust-distributed-backend-lab` | gRPC docs, setup, benchmarks |
-| 4 | `smart-contract-security-lab` | Solidity contracts, tests, audit notes |
-| 5 | `llm-evaluation-redteam-kit` | eval prompts, scoring rubric, examples |
-| 6 | `flutter-security-suite` | UI screenshots, plugin list, setup |
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AsadAli-CyberZeus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAli-CyberZeus&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&hide=html,css&exclude_repo=AsadAli-CyberZeus&cache_seconds=21600" alt="Most used public languages" width="41%" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsadAli-CyberZeus&theme=github_dark" alt="Repositories per language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsadAli-CyberZeus&theme=github_dark" alt="Most committed languages" width="49%" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AsadAli-CyberZeus&theme=tokyonight&hide_border=true" alt="GitHub streak" width="90%" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAli-CyberZeus&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="96%" />
-
+  <img src="./assets/engineering-stack.svg" alt="Engineering stack intelligence" width="96%" />
 </div>
 
 ---
@@ -189,10 +149,10 @@ I am focused on production-grade engineering: systems that are secure by design,
 
 ---
 
-## 🧊 3D Contribution Graph
+## 🧊 Contribution Graph
 
 <div align="center">
-  <img src="./assets/contribution-3d.svg" alt="3D contribution graph" width="96%" />
+  <img src="./assets/contribution-3d.svg" alt="Contribution graph animation" width="96%" />
 </div>
 
 ---
