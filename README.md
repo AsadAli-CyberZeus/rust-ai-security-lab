@@ -10,14 +10,6 @@
 
 ---
 
-## 🖥️ Terminal Snapshot
-
-<div align="center">
-  <img src="./assets/07-terminal-intro.svg" alt="Animated terminal intro" width="96%" />
-</div>
-
----
-
 ## ⚡ Positioning
 
 > I build **secure, intelligent, distributed systems** across cybersecurity, Rust infrastructure, AI automation, and blockchain protocols.
@@ -86,7 +78,7 @@ I focus on production-grade engineering: systems that are secure by design, obse
 ## 🧭 Experience Timeline
 
 <div align="center">
-  <img src="./assets/08-experience-timeline.svg" alt="Animated experience timeline" width="96%" />
+  <img src="./assets/08-experience-timeline.svg" alt="Experience timeline" width="96%" />
 </div>
 
 ---
@@ -103,21 +95,22 @@ I focus on production-grade engineering: systems that are secure by design, obse
 
 <div align="center">
 
-### Core Languages
+### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Web / Product Exposure
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Frameworks / Runtime
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Backend / Systems
 ![Async Rust](https://img.shields.io/badge/Async_Rust-0F172A?style=for-the-badge&logo=rust&logoColor=white)
@@ -198,7 +191,7 @@ I focus on production-grade engineering: systems that are secure by design, obse
 ## 🎯 Role Alignment
 
 <div align="center">
-  <img src="./assets/09-role-alignment-bars.svg" alt="Animated role alignment bars" width="96%" />
+  <img src="./assets/09-role-alignment-bars.svg" alt="Role alignment bars" width="96%" />
 </div>
 
 <div align="center">
@@ -228,6 +221,6 @@ I focus on production-grade engineering: systems that are secure by design, obse
 
 <div align="center">
 
-<img src="./assets/10-footer-signature-wave.svg" alt="Animated footer signature wave" width="100%" />
+<img src="./assets/10-footer-signature-wave.svg" alt="Footer signature wave" width="100%" />
 
 </div>
