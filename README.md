@@ -158,23 +158,24 @@ I am focused on production-grade engineering: systems that are secure by design,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AsadAli-CyberZeus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AsadAli-CyberZeus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAli-CyberZeus&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&hide=html,css&exclude_repo=AsadAli-CyberZeus&cache_seconds=21600" alt="Most used public languages" width="41%" />
 
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=AsadAli-CyberZeus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAli-CyberZeus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsadAli-CyberZeus&theme=github_dark" alt="Repositories per language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsadAli-CyberZeus&theme=github_dark" alt="Most committed languages" width="49%" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=AsadAli-CyberZeus&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AsadAli-CyberZeus&theme=tokyonight&hide_border=true" alt="GitHub streak" width="90%" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAli-CyberZeus&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadAli-CyberZeus&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="96%" />
 
 </div>
 
@@ -183,7 +184,7 @@ I am focused on production-grade engineering: systems that are secure by design,
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AsadAli-CyberZeus/AsadAli-CyberZeus/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="96%" />
+  <img src="./assets/contribution-snake.svg" alt="Contribution snake animation" width="96%" />
 </div>
 
 ---
@@ -191,7 +192,7 @@ I am focused on production-grade engineering: systems that are secure by design,
 ## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="96%" />
+  <img src="./assets/contribution-3d.svg" alt="3D contribution graph" width="96%" />
 </div>
 
 ---
@@ -201,9 +202,9 @@ I am focused on production-grade engineering: systems that are secure by design,
 <div align="center">
 
 ![Security Software Engineer](https://img.shields.io/badge/Security_Software_Engineer-0F172A?style=for-the-badge)
+![AI Systems Engineer](https://img.shields.io/badge/AI_Systems_Engineer-0F172A?style=for-the-badge)
 ![Rust Systems Engineer](https://img.shields.io/badge/Rust_Systems_Engineer-0F172A?style=for-the-badge)
 ![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-0F172A?style=for-the-badge)
-![AI Systems Engineer](https://img.shields.io/badge/AI_Systems_Engineer-0F172A?style=for-the-badge)
 ![Blockchain Engineer](https://img.shields.io/badge/Blockchain_Engineer-0F172A?style=for-the-badge)
 ![Cybersecurity Engineer](https://img.shields.io/badge/Cybersecurity_Engineer-0F172A?style=for-the-badge)
 
@@ -211,13 +212,13 @@ I am focused on production-grade engineering: systems that are secure by design,
 
 ---
 
-## 🌐 Connect
+## 🤝 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asad%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-ali-blockchain/)
-[![GitHub](https://img.shields.io/badge/GitHub-AsadAli-CyberZeus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadAli-CyberZeus)
-[![Email](https://img.shields.io/badge/Email-asadali.cryptoeng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadali.cryptoeng@gmail.com)
+<img src="https://img.shields.io/badge/LinkedIn-Asad%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://github.com/AsadAli-CyberZeus" target="_blank"><img src="https://img.shields.io/badge/GitHub-AsadAli%20CyberZeus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:asadali.cryptoeng@gmail.com"><img src="https://img.shields.io/badge/Email-asadali.cryptoeng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
